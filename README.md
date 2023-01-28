@@ -1,7 +1,9 @@
 ## Table of contents
 
 - [General info](#general-info)
+- [Live Address](#live-address)
 - [Setup](#setup)
+- [Author](#author)
 
 ## General info
 
